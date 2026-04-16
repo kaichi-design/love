@@ -39,7 +39,7 @@ int main(){
 
         ClearBackground((Color){40, 255, 180, 255});
         DrawCircle(tx, 600-40, 40, RED);
-        DrawCircle(400, y, 40, YELLOW);
+        DrawCircle(400, y, 40, BLUE);
         EndDrawing();   
     }
 
@@ -48,5 +48,5 @@ int main(){
 
     
 
-    
+
 }
